@@ -57,7 +57,7 @@
 #define RCON_AUTH_RESPONSE      2
 #define RCON_PID                0xBADC0DE
 
-#define DATA_BUFFSIZE 4096
+#define DATA_BUFFSIZE 40960
 
 // rcon packet structure
 typedef struct _rc_packet {
